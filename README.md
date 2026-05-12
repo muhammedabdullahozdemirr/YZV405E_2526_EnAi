@@ -99,7 +99,7 @@ admire_text_bottleneck/
 
 | Role | Model |
 |---|---|
-| LLM | `gpt-4o-mini` |
+| LLM | `gpt-4o-mini` or `gpt-4o`  |
 | Cross-encoder (semantic similarity) | `cross-encoder/stsb-distilroberta-base` |
 | Cross-encoder (passage ranking) | `cross-encoder/ms-marco-MiniLM-L-6-v2` |
 
