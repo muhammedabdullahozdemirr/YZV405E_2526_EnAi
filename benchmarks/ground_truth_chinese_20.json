@@ -1,0 +1,142 @@
+[
+  {
+    "row": 1,
+    "compound": "黑箱",
+    "sentence_prefix": "所有领导人由少数人闭门决定",
+    "usage_type": "figurative",
+    "expected_order": ["29824057753.png", "22375425421.png", "40892042938.png", "23086440420.png", "95235295557.png"]
+  },
+  {
+    "row": 2,
+    "compound": "黑箱",
+    "sentence_prefix": "第二，缺乏严格的程序性审查",
+    "usage_type": "figurative",
+    "expected_order": ["29824057753.png", "22375425421.png", "40892042938.png", "23086440420.png", "95235295557.png"]
+  },
+  {
+    "row": 3,
+    "compound": "黑箱",
+    "sentence_prefix": "对于客厅电脑来说",
+    "usage_type": "literal",
+    "expected_order": ["22375425421.png", "40892042938.png", "23086440420.png", "29824057753.png", "95235295557.png"]
+  },
+  {
+    "row": 4,
+    "compound": "黑箱",
+    "sentence_prefix": "在这里，一改旧日的长方桌",
+    "usage_type": "literal",
+    "expected_order": ["22375425421.png", "23086440420.png", "40892042938.png", "29824057753.png", "95235295557.png"]
+  },
+  {
+    "row": 5,
+    "compound": "谋生之道",
+    "sentence_prefix": "我们每一个人不都需要知道",
+    "usage_type": "figurative",
+    "expected_order": ["51989636373.png", "74217904944.png", "49289377128.png", "63783635329.png", "16821056139.png"]
+  },
+  {
+    "row": 6,
+    "compound": "谋生之道",
+    "sentence_prefix": "中餐馆，华人天然的谋生之道",
+    "usage_type": "figurative",
+    "expected_order": ["16821056139.png", "51989636373.png", "49289377128.png", "74217904944.png", "63783635329.png"]
+  },
+  {
+    "row": 7,
+    "compound": "谋生之道",
+    "sentence_prefix": "谋生之道是《逸剑风云决》",
+    "usage_type": "figurative",
+    "expected_order": ["74217904944.png", "63783635329.png", "51989636373.png", "49289377128.png", "16821056139.png"]
+  },
+  {
+    "row": 8,
+    "compound": "道路反光标记",
+    "sentence_prefix": "本实用新型提供一种自清洁",
+    "usage_type": "literal",
+    "expected_order": ["51131344804.png", "67403558212.png", "59492661352.png", "70189136261.png", "63270568336.png"]
+  },
+  {
+    "row": 9,
+    "compound": "道路反光标记",
+    "sentence_prefix": "道路反光标记,包括片体及其上",
+    "usage_type": "literal",
+    "expected_order": ["51131344804.png", "67403558212.png", "59492661352.png", "70189136261.png", "63270568336.png"]
+  },
+  {
+    "row": 10,
+    "compound": "九牛一毛",
+    "sentence_prefix": "看起来花了不少钱，但和赚的",
+    "usage_type": "figurative",
+    "expected_order": ["30206506042.png", "96038878319.png", "26510820913.png", "59731214310.png", "98490627148.png"]
+  },
+  {
+    "row": 11,
+    "compound": "九牛一毛",
+    "sentence_prefix": "这时的音乐版权尚在数万之间",
+    "usage_type": "figurative",
+    "expected_order": ["30206506042.png", "96038878319.png", "26510820913.png", "59731214310.png", "98490627148.png"]
+  },
+  {
+    "row": 12,
+    "compound": "千钧一发",
+    "sentence_prefix": "眼看阿某就要摆脱包围圈",
+    "usage_type": "figurative",
+    "expected_order": ["30652490999.png", "38392588816.png", "79027994353.png", "97499700396.png", "12531541750.png"]
+  },
+  {
+    "row": 13,
+    "compound": "千钧一发",
+    "sentence_prefix": "鉴于天气的寒冷和形势的",
+    "usage_type": "figurative",
+    "expected_order": ["30652490999.png", "38392588816.png", "79027994353.png", "97499700396.png", "12531541750.png"]
+  },
+  {
+    "row": 14,
+    "compound": "唱反调",
+    "sentence_prefix": "这种和应试教育培训班完全",
+    "usage_type": "figurative",
+    "expected_order": ["50030842230.png", "44855922733.png", "65271340779.png", "46506753952.png", "92220317928.png"]
+  },
+  {
+    "row": 15,
+    "compound": "唱反调",
+    "sentence_prefix": "三星近日开始与微软大力宣传",
+    "usage_type": "figurative",
+    "expected_order": ["50030842230.png", "44855922733.png", "65271340779.png", "46506753952.png", "92220317928.png"]
+  },
+  {
+    "row": 16,
+    "compound": "唱反调",
+    "sentence_prefix": "他试着把曲调倒过来唱反调",
+    "usage_type": "literal",
+    "expected_order": ["44855922733.png", "65271340779.png", "46506753952.png", "50030842230.png", "92220317928.png"]
+  },
+  {
+    "row": 17,
+    "compound": "唱反调",
+    "sentence_prefix": "他把乐谱倒过来唱反调",
+    "usage_type": "literal",
+    "expected_order": ["44855922733.png", "65271340779.png", "46506753952.png", "50030842230.png", "92220317928.png"]
+  },
+  {
+    "row": 18,
+    "compound": "赃款",
+    "sentence_prefix": "经过查证，李华波跨境转移",
+    "usage_type": "figurative",
+    "expected_order": ["51097554662.png", "24018127446.png", "25974200814.png", "70906939265.png", "65256263363.png"]
+  },
+  {
+    "row": 19,
+    "compound": "赃款",
+    "sentence_prefix": "此外，犯罪分子多为临时起意",
+    "usage_type": "literal",
+    "expected_order": ["24018127446.png", "51097554662.png", "70906939265.png", "25974200814.png", "65256263363.png"]
+  },
+  {
+    "row": 20,
+    "compound": "一马当先",
+    "sentence_prefix": "小将傅园慧在女子50米仰泳",
+    "usage_type": "figurative",
+    "expected_order": ["12043968900.png", "86706855496.png", "56893993199.png", "17958411938.png", "62795327751.png"]
+  }
+]

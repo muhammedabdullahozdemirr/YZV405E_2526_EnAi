@@ -1,0 +1,212 @@
+[
+  {
+    "row": 1,
+    "compound": "çürük elma",
+    "sentence_prefix": "Bir kuruluş içinden birkaç çürük elma çıktı",
+    "usage_type": "figurative",
+    "expected_order": ["85682258634.png", "46081287159.png", "88565564832.png", "10884367753.png", "96034096013.png"]
+  },
+  {
+    "row": 2,
+    "compound": "çürük elma",
+    "sentence_prefix": "Çürük elmaların var olduğu bir toplumsal sözleşme",
+    "usage_type": "figurative",
+    "expected_order": ["85682258634.png", "46081287159.png", "88565564832.png", "10884367753.png", "96034096013.png"]
+  },
+  {
+    "row": 3,
+    "compound": "çürük elma",
+    "sentence_prefix": "Sosyal medyada paylaşılan görüntüde, çürük elmaların",
+    "usage_type": "literal",
+    "expected_order": ["46081287159.png", "88565564832.png", "10884367753.png", "85682258634.png", "96034096013.png"]
+  },
+  {
+    "row": 4,
+    "compound": "çürük elma",
+    "sentence_prefix": "Çürük elma, insan sağlığı için tehlikeli olabilir",
+    "usage_type": "literal",
+    "expected_order": ["46081287159.png", "88565564832.png", "10884367753.png", "85682258634.png", "96034096013.png"]
+  },
+  {
+    "row": 5,
+    "compound": "kara kutu",
+    "sentence_prefix": "Derin öğrenmenin",
+    "usage_type": "figurative",
+    "expected_order": ["55008421495.png", "76095207275.png", "42749624665.png", "77894435620.png", "14611993362.png"]
+  },
+  {
+    "row": 6,
+    "compound": "kara kutu",
+    "sentence_prefix": "Bilgisayar bilimindeki",
+    "usage_type": "figurative",
+    "expected_order": ["55008421495.png", "76095207275.png", "42749624665.png", "77894435620.png", "14611993362.png"]
+  },
+  {
+    "row": 7,
+    "compound": "kara kutu",
+    "sentence_prefix": "Düşen uçağın",
+    "usage_type": "literal",
+    "expected_order": ["14611993362.png", "55008421495.png", "77894435620.png", "76095207275.png", "42749624665.png"]
+  },
+  {
+    "row": 8,
+    "compound": "kara kutu",
+    "sentence_prefix": "Askeri uçağın",
+    "usage_type": "literal",
+    "expected_order": ["14611993362.png", "55008421495.png", "77894435620.png", "76095207275.png", "42749624665.png"]
+  },
+  {
+    "row": 9,
+    "compound": "ekmek teknesi",
+    "sentence_prefix": "Geçim sağlanan yer",
+    "usage_type": "figurative",
+    "expected_order": ["10556771614.png", "34196846786.png", "56471498291.png", "15845776539.png", "88366896414.png"]
+  },
+  {
+    "row": 10,
+    "compound": "ekmek teknesi",
+    "sentence_prefix": "Dikkatini işine kazancına vermek",
+    "usage_type": "figurative",
+    "expected_order": ["34196846786.png", "10556771614.png", "56471498291.png", "15845776539.png", "88366896414.png"]
+  },
+  {
+    "row": 11,
+    "compound": "ekmek teknesi",
+    "sentence_prefix": "Fırıncıların taşıdığı gerçek ekmek sepeti",
+    "usage_type": "literal",
+    "expected_order": ["10556771614.png", "15845776539.png", "88366896414.png", "34196846786.png", "56471498291.png"]
+  },
+  {
+    "row": 12,
+    "compound": "ekmek teknesi",
+    "sentence_prefix": "Fiziksel olarak ahşaptan yapılan hamur teknesi",
+    "usage_type": "literal",
+    "expected_order": ["15845776539.png", "88366896414.png", "34196846786.png", "10556771614.png", "56471498291.png"]
+  },
+  {
+    "row": 13,
+    "compound": "devede kulak",
+    "sentence_prefix": "Genel toplam içinde çok küçük bir miktar",
+    "usage_type": "figurative",
+    "expected_order": ["45267780222.png", "32372621813.png", "43729531991.png", "45646483783.png", "15271623298.png"]
+  },
+  {
+    "row": 14,
+    "compound": "devede kulak",
+    "sentence_prefix": "Gözlemlerin yanında okunanların çok yetersiz",
+    "usage_type": "figurative",
+    "expected_order": ["45267780222.png", "32372621813.png", "43729531991.png", "45646483783.png", "15271623298.png"]
+  },
+  {
+    "row": 15,
+    "compound": "devede kulak",
+    "sentence_prefix": "Hayvanın fiziksel kulağı",
+    "usage_type": "literal",
+    "expected_order": ["43729531991.png", "32372621813.png", "45267780222.png", "15271623298.png", "45646483783.png"]
+  },
+  {
+    "row": 16,
+    "compound": "devede kulak",
+    "sentence_prefix": "Hayvanın kulağının kesilmesi",
+    "usage_type": "literal",
+    "expected_order": ["43729531991.png", "15271623298.png", "32372621813.png", "45267780222.png", "45646483783.png"]
+  },
+  {
+    "row": 17,
+    "compound": "kıl payı",
+    "sentence_prefix": "Bir kazadan veya tehlikeden son anda kurtulmak",
+    "usage_type": "figurative",
+    "expected_order": ["82118567978.png", "61587026032.png", "14854806345.png", "93345663104.png", "14976515770.png"]
+  },
+  {
+    "row": 18,
+    "compound": "kıl payı",
+    "sentence_prefix": "Uçuruma düşmekten son anda kurtulmak",
+    "usage_type": "figurative",
+    "expected_order": ["82118567978.png", "14854806345.png", "61587026032.png", "93345663104.png", "14976515770.png"]
+  },
+  {
+    "row": 19,
+    "compound": "kıl payı",
+    "sentence_prefix": "Yün veya kaşmirin içindeki gerçek kıl",
+    "usage_type": "literal",
+    "expected_order": ["61587026032.png", "82118567978.png", "14854806345.png", "14976515770.png", "93345663104.png"]
+  },
+  {
+    "row": 20,
+    "compound": "kıl payı",
+    "sentence_prefix": "İçeriği anlaşılamayan kutu",
+    "usage_type": "literal",
+    "expected_order": ["93345663104.png", "14976515770.png", "14854806345.png", "82118567978.png", "61587026032.png"]
+  },
+  {
+    "row": 21,
+    "compound": "şeytanın avukatı",
+    "sentence_prefix": "Tartışmada olası riskleri savunmak",
+    "usage_type": "figurative",
+    "expected_order": ["64809193726.png", "32196175829.png", "75257157257.png", "85484267061.png", "95762603756.png"]
+  },
+  {
+    "row": 22,
+    "compound": "şeytanın avukatı",
+    "sentence_prefix": "Karşıt fikirleri savunarak düşündürmek",
+    "usage_type": "figurative",
+    "expected_order": ["64809193726.png", "32196175829.png", "75257157257.png", "85484267061.png", "95762603756.png"]
+  },
+  {
+    "row": 23,
+    "compound": "şeytanın avukatı",
+    "sentence_prefix": "Papalıktaki resmi bir görev",
+    "usage_type": "literal",
+    "expected_order": ["85484267061.png", "32196175829.png", "75257157257.png", "64809193726.png", "95762603756.png"]
+  },
+  {
+    "row": 24,
+    "compound": "şeytanın avukatı",
+    "sentence_prefix": "Çizgi romandaki şeytanın avukatlık yapan yardımcısı",
+    "usage_type": "literal",
+    "expected_order": ["64809193726.png", "85484267061.png", "32196175829.png", "75257157257.png", "95762603756.png"]
+  },
+  {
+    "row": 25,
+    "compound": "kara para",
+    "sentence_prefix": "Yasadışı yollardan elde edilen parayı sisteme",
+    "usage_type": "figurative",
+    "expected_order": ["73922696196.png", "56229771663.png", "95470981764.png", "90315843439.png", "61695467557.png"]
+  },
+  {
+    "row": 26,
+    "compound": "kara para",
+    "sentence_prefix": "Operasyon ve gözaltılar",
+    "usage_type": "figurative",
+    "expected_order": ["73922696196.png", "95470981764.png", "56229771663.png", "90315843439.png", "61695467557.png"]
+  },
+  {
+    "row": 27,
+    "compound": "kara para",
+    "sentence_prefix": "Fiziksel olarak is ve kurumdan kararmış",
+    "usage_type": "literal",
+    "expected_order": ["90315843439.png", "56229771663.png", "95470981764.png", "73922696196.png", "61695467557.png"]
+  },
+  {
+    "row": 28,
+    "compound": "kara para",
+    "sentence_prefix": "Çocuğun boyayla siyah renge boyadığı",
+    "usage_type": "literal",
+    "expected_order": ["56229771663.png", "90315843439.png", "95470981764.png", "73922696196.png", "61695467557.png"]
+  },
+  {
+    "row": 29,
+    "compound": "heves etmek",
+    "sentence_prefix": "İstemek arzulamak",
+    "usage_type": "figurative",
+    "expected_order": ["49547084794.png", "41998622768.png", "50903729916.png", "62006082573.png", "63771725185.png"]
+  },
+  {
+    "row": 30,
+    "compound": "heves etmek",
+    "sentence_prefix": "Devlet memurluğu yerine kendi girişimini",
+    "usage_type": "figurative",
+    "expected_order": ["41998622768.png", "49547084794.png", "62006082573.png", "50903729916.png", "63771725185.png"]
+  }
+]
